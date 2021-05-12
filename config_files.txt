@@ -1,0 +1,2 @@
+/home/marcel/.bashrc
+/home/marcel/.config/fish/config.fish
