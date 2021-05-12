@@ -1,2 +1,3 @@
 /home/marcel/.bashrc
 /home/marcel/.config/fish/config.fish
+/etc/wsl.conf
