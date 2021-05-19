@@ -2,3 +2,4 @@
 /home/marcel/.config/fish/config.fish
 /etc/wsl.conf
 /home/marcel/.zshrc
+/home/marcel/update.fish
