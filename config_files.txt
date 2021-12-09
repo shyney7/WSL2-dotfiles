@@ -3,3 +3,4 @@
 /etc/wsl.conf
 /home/marcel/.zshrc
 /home/marcel/update.fish
+/mnt/c/Users/olivei_m/Documents/PowerShell/Modules/oh-my-posh/themes/shyney.omp.json
